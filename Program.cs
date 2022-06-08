@@ -12,7 +12,7 @@ namespace ThePrototype
 
             do
             {
-                Console.Write("User 1, enter a number between 1 and 100: ");
+                Console.Write("User 1, enter a number between 1 and 100:");
                 input = Console.ReadLine();
                 user1Number = Convert.ToInt32(input);
             }
