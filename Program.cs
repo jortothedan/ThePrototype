@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ThePrototype
 {
@@ -6,7 +6,6 @@ namespace ThePrototype
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             int user1Number;
             int user2Number;
             string input;
@@ -46,9 +45,3 @@ namespace ThePrototype
         }
     }
 }
-=======
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
->>>>>>> 8b2dfacb5ba70d87eca92f7d91c988e9079d5e70
